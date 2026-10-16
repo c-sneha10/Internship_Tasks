@@ -1,4 +1,4 @@
-# Problem 15: Finding the Percentage
+# Problem 17: Finding the Percentage
 # HackerRank: https://www.hackerrank.com/challenges/finding-the-percentage/problem
 if __name__ == '__main__':
     n = int(input())
