@@ -1,4 +1,4 @@
-# Problem 17: Collections.Counter()
+# Problem 19: Collections.Counter()
 # HackerRank: https://www.hackerrank.com/challenges/collections-counter/problem
 from collections import Counter
 if __name__ == '__main__':
